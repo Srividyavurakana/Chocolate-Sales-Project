@@ -1,0 +1,11 @@
+Business Insights
+
+1. Top 5 chocolate products generated the highest sales revenue.
+
+2. Monthly sales trends changed across different months.
+
+3. Some products performed significantly better than others.
+
+4. Sales distribution contains both low and high-value transactions.
+
+5. Data analysis helps identify product performance and business trends.
